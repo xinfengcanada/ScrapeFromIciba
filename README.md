@@ -1,2 +1,2 @@
 # ScrapeFromIciba
-Scrape phonetic transcriptions into speeched of Endlish words from iciba.com.
+Scrape phonetic transcriptions and speeches of English words from iciba.com.
